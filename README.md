@@ -26,8 +26,7 @@ I'm @Eurekaleo, a passionate AI follower and lifelong learner.
 ## Connect with Me
 
 - Please feel free to contact me anytime. 😉
-- 📧 Email: eurekaleo85@gmail.com
-- 🐦 QQ: 2089192169
+- 📧 Email: mluo@u.nus.edu
 
 ## Fun Facts
 
