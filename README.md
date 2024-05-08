@@ -27,19 +27,3 @@ I'm @Eurekaleo, a passionate AI follower and lifelong learner.
 
 - Please feel free to contact me anytime. 😉
 - 📧 Email: mluo@u.nus.edu
-
-## Fun Facts
-
-- 🎮 I love sharing useful technologies and interesting ideas.
-- 🎧 Music and Jay Chou, JJ Lin enthusiast.
-- 🌍 I enjoy traveling, reading, making new friends.
-
-Let's connect and collaborate on exciting projects!
-
-With an unwavering belief in the transformative power of artificial intelligence, 
-everyone can own the chance tolead the charge towards a future where technology serves as a catalyst for human progress and well-being.
-
-<!---
-Eurekaleo/Eurekaleo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
