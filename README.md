@@ -2,11 +2,6 @@
 
 I'm @Eurekaleo, a passionate AI follower and lifelong learner.
 
-## About Me
-
-- 🎓 Artificial Intelligence student at NUS.
-- 🚀 Currently reasearching on LLM and MLLM.
-
 ## Homepage
 https://eurekaleo.github.io/
 
